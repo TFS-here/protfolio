@@ -1,0 +1,67 @@
+body{
+     font-family: 'Open Sans', sans-serif; 
+    /* font-family: 'Poppins', sans-serif; */
+}
+.banner-container{
+    background-color: darkslategray;
+}
+.banner-column{
+    background-color: cadetblue;
+}
+.navbar{
+    background-color: rgb(9, 52, 145);
+    top: 0;
+    position: sticky;
+    z-index: 3;
+    
+}
+.nav-link{
+    color: aliceblue;
+}
+.about-container{
+    background-color: darkseagreen;
+}
+.bg-education{
+    background-color:gainsboro;
+}
+.edu-color{
+    color: cornflowerblue;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: rgb(132, 112, 81);
+}
+.project-container{
+    background-color: cornflowerblue;
+}
+.protfolio_container{
+    color: darkblue;
+}
+.form-container{
+    background-color: slategray;
+
+}
+.inner-form{
+    background-color: rgb(125, 140, 156);
+}
+.footer-section{
+    background-color:dodgerblue;
+}
+.circle1{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:white;
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
+.circle1:hover{
+    background-color:darkslategray;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
